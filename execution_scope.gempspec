@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+Gem::Specification.new do |s|
+  s.name        =  'execution-scope'
+  s.email       =  'mathias.phoyu@gmail.com'
+  s.files       = ['lib/execution_scope.rb']
+  s.version     =  '0.0.0'
+  s.summary     =  'Execution scope summary'
+  s.license     =  'GPL-3.0'
+  s.authors     = ['Mathias Phoyu']
+  s.homepage    =  'http://rubygems.org/gems/execution_scope'
+  s.description =  'Execution scope description'
+end
+
